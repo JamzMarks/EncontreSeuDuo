@@ -44,12 +44,10 @@ export function CreateAdModal() {
         hourEnd: data.hourEnd,
         useVoiceChannel: useVoiceChannel,
       })
-      alert("certo")
+
     } catch(err){
       console.log(err)
-      alert('erro')
     }
-    
   }
 
   
