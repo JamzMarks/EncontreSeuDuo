@@ -169,7 +169,7 @@ export function CreateAdModal() {
                                 <Check className='w-4 h-4 text-emerald-400'></Check>
                             </Checkbox.Indicator>
                           </Checkbox.Root>
-                          CostumO me conectar ao chat de voz
+                          Costumo me conectar ao chat de voz
                         </label>
 
                         <footer className='mt-4 flex justify-end gap-4'>
